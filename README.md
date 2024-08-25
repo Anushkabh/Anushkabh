@@ -45,9 +45,13 @@
 </p>
 
 <!--Github stats Table--> 
-<h2 align="left">📊 Github Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkabh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
+<h2 align="left">📦 Stats</h2> 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkabh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushkabh&theme=dark&hide_border=false)
+
+![Rajnish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushkabh&theme=dark&hide_border=true)
 
 <!--Contact Section--> 
 
