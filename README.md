@@ -51,9 +51,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkabh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushkabh&theme=dark&hide_border=false)
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushkabh&theme=dark&hide_border=false)
 
-![Rajnish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushkabh&theme=dark&hide_border=true)
+![Anushka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushkabh&theme=dark&hide_border=true)
 
 <!--Contact Section--> 
 
@@ -67,7 +67,7 @@
 </a>
   
 <a href="mailto:bhandarianushka670@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=bhandaanu123@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 
