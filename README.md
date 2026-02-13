@@ -82,8 +82,9 @@
 ## 🤝 Connect With Me
 
 📧 **bhandarianushka670@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/anushka-bhandari-163278224)  
 🐙 [GitHub](https://github.com/Anushkabh)
+💼 [LinkedIn](https://www.linkedin.com/in/anushka-bhandari-163278224)  
+🐙 [Portfolio](https://www.anushkabhandari.in/)
 
 ---
 
